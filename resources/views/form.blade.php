@@ -10,9 +10,9 @@
     <br>
     <select name ="motido_contato" >
         <option value="">Qual o motivo do contato?</option>
-        <option value="1">Dúvida</option>
-        <option value="2">Elogio</option>
-        <option value="3">Reclamação</option>
+        <option value="0">Número 0</option>
+        <option value="1">Número 1</option>
+        <option value="2">Número 2</option>
     </select>
     <br>
     <textarea name ="mensagem">Preencha aqui a sua mensagem</textarea>
