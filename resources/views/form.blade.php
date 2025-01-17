@@ -13,6 +13,16 @@
         <option value="0">Número 0</option>
         <option value="1">Número 1</option>
         <option value="2">Número 2</option>
+        <option value="1">Dúvida</option>
+        <option value="2">Elogio</option>
+        <option value="3">Reclamação</option>
+
+
+
+        
+        <option value="3">teste1</option>
+        <option value="3">Ração</option>
+        <option value="3">Reação</option>
     </select>
     <br>
     <textarea name ="mensagem">Preencha aqui a sua mensagem</textarea>
